@@ -29,5 +29,31 @@
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/7d7250e97f6086.webp",
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/4ac9d6ca22d998.webp"
     ]
+  },
+  {
+    "title": "Madurai",
+    "category": [
+      "famil"
+    ],
+    "shortDescription": "ds klvklmvlkfdv",
+    "fullDescription": "cdnmikflk",
+    "days": 1,
+    "nights": 0,
+    "stay": [
+      "None"
+    ],
+    "food": [
+      "include"
+    ],
+    "places": [
+      "temple"
+    ],
+    "recommended": false,
+    "pricePerPerson": 1800.0,
+    "id": "madurai",
+    "images": [
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/d6536a66a93f0e.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/1c1da4d36e5850.webp"
+    ]
   }
 ]
