@@ -6,13 +6,5 @@
     "comment": "all Good ",
     "recommended": true,
     "image": "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/1c68216a4b23f7.webp"
-  },
-  {
-    "rating": 3.5,
-    "userName": "hello",
-    "comment": "ksbvsdlcmk",
-    "recommended": false,
-    "id": "55c241316a3f59120f3a6bc8",
-    "image": null
   }
 ]
