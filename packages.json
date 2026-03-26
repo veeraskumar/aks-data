@@ -29,33 +29,5 @@
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/7d7250e97f6086.webp",
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/4ac9d6ca22d998.webp"
     ]
-  },
-  {
-    "title": "Madurai Temple Darshan",
-    "category": [
-      "devotional",
-      "1-day",
-      "local"
-    ],
-    "shortDescription": "One day spiritual trip with meals included",
-    "fullDescription": "Visit famous temples in Madurai with arranged darshan and comfortable travel from Sivaganga.",
-    "days": 1,
-    "nights": 0,
-    "stay": null,
-    "food": [
-      "Include"
-    ],
-    "places": [
-      "Meenakshi Amman Temple",
-      "Thirumalai Nayakkar Palace",
-      "Gandhi Memorial Museum"
-    ],
-    "recommended": false,
-    "pricePerPerson": 1800.0,
-    "id": "madurai-temple-darshan",
-    "images": [
-      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/b411316a77f565.webp",
-      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/062a33f05112cc.webp"
-    ]
   }
 ]
