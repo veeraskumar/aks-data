@@ -395,5 +395,36 @@
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/varkala.webp",
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/munnar.webp"
     ]
+  },
+  {
+    "title": "THAILAND-PATTAYA&BANGKOK",
+    "category": [
+      "international",
+      "family",
+      "group"
+    ],
+    "shortDescription": "A trip to Thailand covering Pattaya and Bangkok is the perfect \"starter pack\" for the country. It blends the high-energy beach life of Pattaya with the deep cultural roots and shopping madness of Bangkok",
+    "fullDescription": "Coral Island : A 20-minute speedboat ride from the pier. This is where the action happens\u2014Parasailing, Sea Walking, and Jet Skiing. The water is much clearer here than on the main Pattaya beach.\r\nSafari World & Marine Park: A massive open-air zoo where you drive through the park to see lions and giraffes, followed by spectacular dolphin and sea lion shows.\r\n",
+    "days": 5,
+    "nights": 4,
+    "stay": [
+      "2 NIGHT IN PATTAYA",
+      "2 NIGHT IN BANGKOK"
+    ],
+    "food": [
+      "Include"
+    ],
+    "places": [
+      "CORAL ISLAND TOUR",
+      "ALCAZAR SHOW",
+      "BANGKOK TEMPLE TOUR(OR)SAFARI WORLD"
+    ],
+    "recommended": false,
+    "pricePerPerson": 69999.0,
+    "id": "thailand-pattaya-bangkok",
+    "images": [
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/4ac106e7983a6e.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/d7e30373d7b80b.webp"
+    ]
   }
 ]
