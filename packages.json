@@ -55,5 +55,34 @@
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/d6536a66a93f0e.webp",
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/1c1da4d36e5850.webp"
     ]
+  },
+  {
+    "title": "Thanjavur Heritage Tour",
+    "category": [
+      "college-iv",
+      "group",
+      "local"
+    ],
+    "shortDescription": "2 days adventure and trekking trip.",
+    "fullDescription": "Enjoy trekking, waterfalls and scenic mountain views in Kolli Hills.",
+    "days": 3,
+    "nights": 0,
+    "stay": [
+      "Hotel Stay (1 Night)"
+    ],
+    "food": [
+      "Include"
+    ],
+    "places": [
+      "Agaya Gangai Waterfalls",
+      "Seeku Parai View Point",
+      "Arapaleeswarar Temple"
+    ],
+    "recommended": true,
+    "pricePerPerson": 5500.0,
+    "id": "thanjavur-heritage-tour",
+    "images": [
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/8fb9765bb2277d.webp"
+    ]
   }
 ]
