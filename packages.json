@@ -31,34 +31,6 @@
     ]
   },
   {
-    "title": "Madurai Temple Darshan",
-    "category": [
-      "devotional",
-      "1-day",
-      "local"
-    ],
-    "shortDescription": "ds klvklmvlkfdv",
-    "fullDescription": "cdnmikflk",
-    "days": 1,
-    "nights": 0,
-    "stay": [
-      "None"
-    ],
-    "food": [
-      "2 Meals (Breakfast & Lunch)"
-    ],
-    "places": [
-      "temple"
-    ],
-    "recommended": false,
-    "pricePerPerson": 1800.0,
-    "id": "madurai-temple-darshan",
-    "images": [
-      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/d6536a66a93f0e.webp",
-      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/10d07f39b80a61.webp"
-    ]
-  },
-  {
     "title": "Thanjavur Heritage Tour",
     "category": [
       "college-iv",
