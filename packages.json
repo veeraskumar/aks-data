@@ -422,6 +422,9 @@
     "recommended": false,
     "pricePerPerson": 69999.0,
     "id": "thailand-pattaya-bangkok",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/b82e336e6a22d6.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/cff076189359ec.webp"
+    ]
   }
 ]
