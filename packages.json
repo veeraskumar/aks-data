@@ -426,5 +426,35 @@
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/b82e336e6a22d6.webp",
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/cff076189359ec.webp"
     ]
+  },
+  {
+    "title": "Coimbatore Package ",
+    "category": [
+      "family",
+      "devotional",
+      "group",
+      "1-day"
+    ],
+    "shortDescription": "Enjoy a refreshing one-day Coimbatore trip covering Maruthamalai Murugan Temple, Isha Yoga Center, and a fun mall visit. Experience spirituality, peace, and leisure all in one package. Food included. Only \u20b91999 per person.",
+    "fullDescription": "Plan a perfect one-day getaway to Coimbatore with a mix of devotion, relaxation, and entertainment. Begin your journey with a visit to the famous Maruthamalai Murugan Temple, located on a scenic hill, offering a peaceful and divine atmosphere.\r\nNext, visit the Isha Yoga Center, a calm and spiritual destination known for the majestic Adiyogi statue. Spend time exploring the serene surroundings, meditating, or simply enjoying the peaceful vibe.",
+    "days": 1,
+    "nights": 0,
+    "stay": [
+      "None"
+    ],
+    "food": [
+      "Include"
+    ],
+    "places": [
+      "Maruthamalai Murugan kovil",
+      "Isha Temple",
+      "mall"
+    ],
+    "recommended": false,
+    "pricePerPerson": 1999.0,
+    "id": "coimbatore-package",
+    "images": [
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/a64c897654289b.webp"
+    ]
   }
 ]
