@@ -16,11 +16,12 @@
     "image": null
   },
   {
-    "rating": 4,
-    "userName": "Vignesh",
+    "rating": 4.0,
+    "userName": "Veeraskumar",
     "id": "ad200cec99f2eb5a304f11",
     "comment": "Good service and comfortable travel. Slight delay but manageable.",
-    "recommended": true
+    "recommended": true,
+    "image": null
   },
   {
     "rating": 5.0,
