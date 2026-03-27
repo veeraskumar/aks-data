@@ -58,5 +58,36 @@
     "images": [
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/8fb9765bb2277d.webp"
     ]
+  },
+  {
+    "title": "Dubai Luxury Tour",
+    "category": [
+      "family",
+      "honeymoon",
+      "international"
+    ],
+    "shortDescription": "4 days luxury international trip.",
+    "fullDescription": "Explore Dubai with desert safari, shopping and famous skyscrapers.",
+    "days": 4,
+    "nights": 3,
+    "stay": [
+      "4 Star Hotel Stay (3 Nights)"
+    ],
+    "food": [
+      "Include"
+    ],
+    "places": [
+      "Burj Khalifa",
+      "Desert Safari",
+      "Dubai Marina",
+      "Palm Jumeirah"
+    ],
+    "recommended": true,
+    "pricePerPerson": 55000.0,
+    "id": "dubai-luxury-tour",
+    "images": [
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/44652fcc4a06c9.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/a31e1a046851d2.webp"
+    ]
   }
 ]
