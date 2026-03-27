@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "title": "Ooty &amp; Coonoor Hill Trip",
+    "category": [
+      "family",
+      "group",
+      "honeymoon"
+    ],
+    "shortDescription": "3 days hill station trip with sightseeing and stay.",
+    "fullDescription": "Enjoy cool climate, tea estates and scenic viewpoints in Ooty and Coonoor with comfortable hotel stay and guided sightseeing.",
+    "days": 3,
+    "nights": 2,
+    "stay": [
+      "3 Star Hotel Stay (2 Night)"
+    ],
+    "food": [
+      "Include"
+    ],
+    "places": [
+      "Ooty Lake",
+      "Doddabetta Peak",
+      "Botanical Garden",
+      "Coonoor Tea Estate",
+      "Sims Park"
+    ],
+    "recommended": true,
+    "pricePerPerson": 9500.0,
+    "id": "ooty-amp-coonoor-hill-trip",
+    "images": [
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/8032951657e010.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/6b9aa68a347f57.webp"
+    ]
+  }
+]
