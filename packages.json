@@ -422,7 +422,11 @@
     "recommended": false,
     "pricePerPerson": 69999.0,
     "id": "thailand-pattaya-bangkok",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/8e037ff43c23fb.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/d163e68ca6673b.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/ae267a306f63fc.webp"
+    ]
   },
   {
     "title": "Coimbatore Package & Temples",
