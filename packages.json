@@ -31,9 +31,11 @@
     ]
   },
   {
-    "title": "Madurai",
+    "title": "Madurai Temple Darshan",
     "category": [
-      "famil"
+      "devotional",
+      "1-day",
+      "local"
     ],
     "shortDescription": "ds klvklmvlkfdv",
     "fullDescription": "cdnmikflk",
@@ -43,16 +45,17 @@
       "None"
     ],
     "food": [
-      "include"
+      "2 Meals (Breakfast & Lunch)"
     ],
     "places": [
       "temple"
     ],
     "recommended": false,
     "pricePerPerson": 1800.0,
-    "id": "madurai",
+    "id": "madurai-temple-darshan",
     "images": [
-      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/d6536a66a93f0e.webp"
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/d6536a66a93f0e.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/10d07f39b80a61.webp"
     ]
   },
   {
