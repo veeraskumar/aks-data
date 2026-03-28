@@ -457,5 +457,28 @@
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/a64c897654289b.webp",
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/3b9a948036f0af.webp"
     ]
+  },
+  {
+    "title": "Chennai",
+    "category": [
+      "family"
+    ],
+    "shortDescription": "Full fun.",
+    "fullDescription": "Same There Full fun.",
+    "days": 1,
+    "nights": 0,
+    "stay": null,
+    "food": [
+      "Include"
+    ],
+    "places": [
+      "Chennai"
+    ],
+    "recommended": false,
+    "pricePerPerson": 999.0,
+    "id": "chennai",
+    "images": [
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/e916c95fcaf115.webp"
+    ]
   }
 ]
