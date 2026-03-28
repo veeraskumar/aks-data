@@ -99,10 +99,10 @@
     "id": "kanyakumari-sunrise-trip",
     "title": "Kanyakumari Sunrise Trip",
     "category": [
-      "family",
-      "group",
+      "Family",
+      "Group",
       "1-day",
-      "local"
+      "Local"
     ],
     "shortDescription": "One day sunrise trip with sightseeing.",
     "fullDescription": "Witness beautiful sunrise and visit famous monuments in Kanyakumari.",
@@ -110,7 +110,7 @@
     "nights": 0,
     "stay": [],
     "food": [
-      "2 Meals (Breakfast & Lunch)"
+      "2 Meals (breakfast & Lunch)"
     ],
     "places": [
       "Vivekananda Rock Memorial",
@@ -119,7 +119,7 @@
       "Sunrise View Point"
     ],
     "recommended": false,
-    "pricePerPerson": 2000,
+    "pricePerPerson": 2000.0,
     "images": [
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/kanyakumari.webp",
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/vivekananda-rock.webp"
