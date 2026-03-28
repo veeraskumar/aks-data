@@ -431,9 +431,9 @@
   {
     "title": "Coimbatore Package",
     "category": [
-      "family",
-      "devotional",
-      "group",
+      "Family",
+      "Devotional",
+      "Group",
       "1-day"
     ],
     "shortDescription": "Coimbatore trip: temple, Isha, mall, food \u20b91999",
@@ -447,9 +447,9 @@
       "Include"
     ],
     "places": [
-      "Maruthamalai Murugan kovil",
+      "Maruthamalai Murugan Kovil",
       "Isha Temple",
-      "mall"
+      "Mall"
     ],
     "recommended": false,
     "pricePerPerson": 1999.0,
