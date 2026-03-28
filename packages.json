@@ -252,7 +252,7 @@
     "id": "munnar-thekkady-hill-station-tour",
     "title": "Munnar & Thekkady Hill Station Tour",
     "category": [
-      "family",
+      "Family",
       "Outstation"
     ],
     "shortDescription": "Enjoy a refreshing 2-day trip to Munnar and Thekkady from Tamil Nadu.",
@@ -260,7 +260,7 @@
     "days": 2,
     "nights": 1,
     "stay": [
-      "3-Star Hotel in Munnar"
+      "3-star Hotel In Munnar"
     ],
     "food": [
       "Breakfast",
@@ -273,7 +273,7 @@
       "Thekkady Wildlife Sanctuary"
     ],
     "recommended": true,
-    "pricePerPerson": 6500,
+    "pricePerPerson": 6500.0,
     "images": [
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/munnar.webp",
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/thekkady.webp"
