@@ -46,5 +46,13 @@
     "recommended": true,
     "id": "3b50493aa3ed182ab9108c0f",
     "image": null
+  },
+  {
+    "userName": "Veeras Kumar",
+    "comment": "Good time but bad exp.",
+    "rating": 1.8,
+    "recommended": false,
+    "id": "6efa3055ebf967ecbe0e2d35",
+    "image": null
   }
 ]
