@@ -399,9 +399,9 @@
   {
     "title": "Thailand: Pattaya & Bangkok Tour",
     "category": [
-      "international",
-      "family",
-      "group"
+      "International",
+      "Family",
+      "Group"
     ],
     "shortDescription": "Thailand trip: Pattaya beaches, Bangkok culture",
     "fullDescription": "Coral Island : A 20-minute speedboat ride from the pier. This is where the action happens\u2014Parasailing, Sea Walking, and Jet Skiing. The water is much clearer here than on the main Pattaya beach.\r\nSafari World & Marine Park: A massive open-air zoo where you drive through the park to see lions and giraffes, followed by spectacular dolphin and sea lion shows.\r\n",
@@ -415,9 +415,9 @@
       "Include"
     ],
     "places": [
-      "CORAL ISLAND TOUR",
-      "ALCAZAR SHOW",
-      "BANGKOK TEMPLE TOUR(OR)SAFARI WORLD"
+      "Coral Island Tour",
+      "Alcazar Show",
+      "Bangkok Temple Tour(or)safari World"
     ],
     "recommended": false,
     "pricePerPerson": 69999.0,
