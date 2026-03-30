@@ -3,10 +3,10 @@
     "id": "ooty-coonoor-hill-trip",
     "title": "Ooty & Coonoor Hill Trip",
     "category": [
-      "Family",
-      "Group",
-      "Honeymoon",
-      "Local"
+      "family",
+      "group",
+      "honeymoon",
+      "local"
     ],
     "shortDescription": "3 days hill station trip with sightseeing and stay.",
     "fullDescription": "Enjoy cool climate, tea estates and scenic viewpoints in ooty and coonoor with comfortable hotel stay and guided sightseeing.",
@@ -27,7 +27,7 @@
       "Coonoor Tea Estate",
       "Sims Park"
     ],
-    "recommended": true,
+    "recommended": false,
     "pricePerPerson": 9500.0,
     "images": [
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/ooty.webp",
