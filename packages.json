@@ -457,5 +457,37 @@
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/a64c897654289b.webp",
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/3b9a948036f0af.webp"
     ]
+  },
+  {
+    "title": "Singapore&malaysia",
+    "category": [
+      "international"
+    ],
+    "shortDescription": "\"5 Days SG-MY Trip! Universal Studios, Sentosa & Batu Caves.",
+    "fullDescription": "\"Explore Singapore & Malaysia! 5 Days of fun at Universal Studios, Sentosa & Gardens by the Bay. Experience the magic of Night Safari, iconic Batu Caves, and Genting Highlands cable car. SG E-Visa & Malaysia Visa-Free! Memorable trip with AKS Tours & Travels. Book now!\".",
+    "days": 5,
+    "nights": 4,
+    "stay": [
+      "2days Singapore & 2days Malaysia"
+    ],
+    "food": [
+      "Include"
+    ],
+    "places": [
+      "Night Safari",
+      "Universal Studios (uss)",
+      "Sentosa Island",
+      "Batu Caves",
+      "Genting Highlands",
+      "Kl City Tour"
+    ],
+    "recommended": true,
+    "pricePerPerson": 74999.0,
+    "id": "singapore-malaysia",
+    "images": [
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/5de074de31d815.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/786a98e02b3800.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/c0cc2a8c7977bb.webp"
+    ]
   }
 ]
