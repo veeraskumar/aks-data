@@ -241,7 +241,7 @@
       "Marina Bay Sands",
       "Merlion Park"
     ],
-    "recommended": true,
+    "recommended": false,
     "pricePerPerson": 72000.0,
     "images": [
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/singapore.webp",
