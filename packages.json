@@ -149,8 +149,8 @@
       "Seeku Parai View Point",
       "Arapaleeswarar Temple"
     ],
-    "recommended": false,
-    "pricePerPerson": 6800,
+    "recommended": true,
+    "pricePerPerson": 6800.0,
     "images": [
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/kolli-hills.webp",
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/waterfall-trekking.webp"
