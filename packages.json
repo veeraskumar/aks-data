@@ -326,12 +326,12 @@
     ],
     "places": [
       "Thiruchendur Murugan Temple",
-      "Naazhi Kinaru (Holy Well)",
+      "Naazhi Kinaru (holy Well)",
       "Local Beach",
       "Manapad Beach"
     ],
     "recommended": false,
-    "pricePerPerson": 1999,
+    "pricePerPerson": 1999.0,
     "images": [
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/thiruchendur-murugan-temple.webp",
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/manapad-beach.webp"
