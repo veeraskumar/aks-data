@@ -419,7 +419,7 @@
       "Alcazar Show",
       "Bangkok Temple Tour (or) Safari World"
     ],
-    "recommended": false,
+    "recommended": true,
     "pricePerPerson": 69999.0,
     "id": "thailand-pattaya-bangkok-tour",
     "images": [
