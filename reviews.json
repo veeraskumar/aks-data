@@ -24,12 +24,12 @@
     "image": null
   },
   {
-    "rating": 4.1,
+    "rating": 4.0,
     "userName": "Hari Imman",
     "id": "ad200cec99f2eb5a304f",
     "comment": "Decent package for the price. Would recommend for local trips.",
     "recommended": true,
-    "image": null
+    "image": "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/c21a90c22afc7e.webp"
   },
   {
     "rating": 4.5,
