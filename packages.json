@@ -453,7 +453,10 @@
     "recommended": false,
     "pricePerPerson": 1999.0,
     "id": "coimbatore-package",
-    "images": []
+    "images": [
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/a10d36528fc27e.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/e1d34fdc3bbc08.webp"
+    ]
   },
   {
     "title": "Singapore & Malaysia",
