@@ -489,5 +489,33 @@
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/786a98e02b3800.webp",
       "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/c0cc2a8c7977bb.webp"
     ]
+  },
+  {
+    "title": "Munnar Honeymoon Package ",
+    "category": [
+      "honeymoon"
+    ],
+    "shortDescription": "Create unforgettable memories amidst the misty hills and lush tea gardens of Munnar!",
+    "fullDescription": "Escape to the rolling hills, misty landscapes, and lush green tea carpeted valleys of Munnar. Perfect for couples starting their beautiful journey together, this curated itinerary blends breathtaking sightseeing with intimate, romantic moments designed to create lifelong memories.",
+    "days": 3,
+    "nights": 2,
+    "stay": [
+      "Resort"
+    ],
+    "food": [
+      "Include"
+    ],
+    "places": [
+      "Munnar Mettupetti Dam Blossom Park Eravikulam National Park Pothamedu View Point Kanthallor"
+    ],
+    "recommended": true,
+    "pricePerPerson": 12999.0,
+    "id": "munnar-honeymoon-package",
+    "images": [
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/a60b028a7d7220.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/7185d32cfc1b1d.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/4ba55bd08479a9.webp",
+      "https://raw.githubusercontent.com/veeraskumar/aks-data/main/images/07c519e0ae51ad.webp"
+    ]
   }
 ]
